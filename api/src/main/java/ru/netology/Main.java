@@ -1,4 +1,4 @@
-package netology;
+package ru.netology;
 
 public class Main {
 
